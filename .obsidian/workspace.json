@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pentesting Roadmap.md",
+                "file": "2026-02-16.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Pentesting Roadmap"
+              "title": "2026-02-16"
             }
           },
           {
@@ -239,7 +239,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 867.5
+    "width": 521.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -255,20 +255,20 @@
   },
   "active": "bf2d13a097628a14",
   "lastOpenFiles": [
-    "System Overview.md",
-    "Pentesting Roadmap.md",
     "12-MONTH CYBERSECURITY LEARNING ROADMAP.md",
     "2026-02-16.md",
+    "Appsec Roadmap.md",
+    "MVP Schedule Example.md",
+    "System Overview.md",
+    "Pentesting Roadmap.md",
     "Burp Suite Setup & HTTP Traffic Capture.md",
     "Pasted image 20260216152927.png",
     "Pasted image 20260216152722.png",
     "Pasted image 20260216152440.png",
     "Pasted image 20260216152426.png",
     "Pasted image 20260216152356.png",
-    "Appsec Roadmap.md",
     "Weekly Reviews/Week of Feb 17.md",
     "Weekly Reviews",
-    "MVP Schedule Example.md",
     "templates/Weekly Template.md",
     "templates/Daily Template.md",
     "Welcome.md",
