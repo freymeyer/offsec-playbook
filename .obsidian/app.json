@@ -1,1 +1,5 @@
-{}
+{
+  "trashOption": "local",
+  "promptDelete": false,
+  "attachmentFolderPath": "attachments"
+}

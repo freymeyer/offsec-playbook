@@ -1,4 +1,4 @@
-# Complete Beginner to Job-Ready (2025-2026)
+omplete Beginner to Job-Ready (2025-2026)
 
 ---
 
